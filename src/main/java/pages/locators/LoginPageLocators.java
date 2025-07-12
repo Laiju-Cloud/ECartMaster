@@ -11,4 +11,5 @@ public interface LoginPageLocators {
     By NewUserSignupname = By.cssSelector("input[data-qa='signup-name']");
     By NewUseremail = By.cssSelector("input[data-qa='signup-email']");
     By signup_button = By.cssSelector("button[data-qa='signup-button']");
+    //git addedded
 }
